@@ -119,6 +119,8 @@ body {
 
 .sidebar .heading .feature-img img {
   width: 100%;
+  filter: opacity(0.5);
+  filter: contrast(0.5);
 }
 
 .sidebar .heading .button-collapse {
